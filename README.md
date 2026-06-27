@@ -13,7 +13,7 @@ The system is composed of three primary microservices:
 
 ---
 
-## 2. Core Functional Features & Algorithms
+## 2. Core Functional Features
 
 ### A. Intelligent Hinglish Voice Command Processor (Ant X V2 Engine)
 Located at `ProductsService.processAgentCommandV2`, this parses human speech commands (Hindi/English/Hinglish mixture) into structured inventory updates.
