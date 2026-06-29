@@ -159,7 +159,7 @@ Executes cart checkout deductions.
 - **Response**: `{"success": true}`
 
 ### `GET /products`
-Retrieves the logged-in user's isolated inventory items.
+Retrieves the logged-in user's isolated inventory items
 - **Headers**: `x-user-id: <string>`
 - **Response**: Array of product objects.
 
