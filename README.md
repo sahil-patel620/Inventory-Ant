@@ -80,7 +80,7 @@ export interface Product {
 
 ---
 
-## 4. API Endpoint Reference
+## 4. API Endpoint Reference.
 
 All endpoints are prefix-routed to `/products`.
 
