@@ -1,4 +1,4 @@
-# Inventory Ant System Architecture & Functional Specifications
+# Inventory Ant System Architecture & Functional Specification
 
 Welcome to the technical specification and functional documentation for **Inventory Ant**, an intelligent warehouse and inventory management platform. This document fully details the system's architecture, APIs, core algorithms, database schema, and operational mechanics, omitting UI/style details.
 
