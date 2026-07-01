@@ -1,4 +1,4 @@
-# Inventory Ant System Architecture & Functional Specification
+# Inventory Ant System Architecture & Functional Specifications
 
 Welcome to the technical specification and functional documentation for **Inventory Ant**, an intelligent warehouse and inventory management platform. This document fully details the system's architecture, APIs, core algorithms, database schema, and operational mechanics, omitting UI/style details.
 
@@ -8,7 +8,7 @@ Welcome to the technical specification and functional documentation for **Invent
 
 The system is composed of three primary microservices:
 1. **Frontend (Vite + React)**: Serves as the dashboard and command console. Communicates with the backend using REST requests. Includes a persistent voice assistant core mounting custom Web Speech Speech-to-Text hooks.
-2. **Backend (NestJS API)**: The core transaction, search, and orchestration layer. It exposes REST APIs for database operations, processes files, maps schemas dynamically, and handles Gemini AI orchestrations.
+2. **Backend (NestJS API)**: The core transaction, search, and orchestration layer. It exposes REST APIs for database operations, processes files, maps schemas dynamically and handles Gemini AI orchestrations.
 3. **AI Microservice (FastAPI)**: A lightweight Python microservice supporting supplementary pipeline integrations.
 
 ---
